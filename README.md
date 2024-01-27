@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="center">I'm a UI/UX Designer and Front End Developer passionate about transforming design concepts into interactive experiences. With a knack for combining creativity and functionality, I bring digital visions to life using a variety of tools and technologies.</h5><br>
+<h4 align="center">I'm a UI/UX Designer and Front End Developer passionate about transforming design concepts into interactive experiences. With a knack for combining creativity and functionality, I bring digital visions to life using a variety of tools and technologies.</h4><br>
 
 ###
 
