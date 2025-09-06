@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm a Front-End Developer</h3>
+<h3 align="center">I'm a Software Developer</h3>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<h4 align="center">I'm a UI/UX Designer and Front End Developer passionate about transforming design concepts into interactive experiences. With a knack for combining creativity and functionality, I bring digital visions to life using a variety of tools and technologies.</h4><br>
+<h4 align="center">I'm a Full-Stack Developer and UI/UX Designer passionate about turning ideas into interactive digital experiences. I also enjoy developing Android applications and have hands-on experience with basic DevOps practices, which helps me streamline development and deployment processes. My goal is to combine creativity, functionality, and efficiency in every project I work on.</h4><br>
 
 ###
 
-<p align="left">📚 I'm currently learning React Native<br>⚒️ Currently working on Smart Signalization Mobile App<br>😉 Ask me about UI//UX, HTML, CSS, JS, React JS</p><br>
+<p align="left">⚒️ Currently working on Nomad – an app that rewards you with coins and gives exciting offers based on the coins you earn.<br>😉 Ask me about UI//UX, HTML, CSS, JS, React JS</p><br>
 
 ###
 
